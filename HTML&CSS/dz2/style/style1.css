@@ -1,0 +1,15 @@
+div{
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: repeat-y left/10% url("https://mdn.mozillademos.org/files/11983/starsolid.gif");
+}
+div:hover{
+  background: repeat-y right/10% url("https://mdn.mozillademos.org/files/11983/starsolid.gif");
+}
+h1 {
+font-family: Impact, sans-serif;
+color: #CE5937;
+}
+	  
