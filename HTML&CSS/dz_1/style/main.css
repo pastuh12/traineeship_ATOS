@@ -7,11 +7,16 @@
 body{
     margin-top: 30px;
 }
+
+aside{
+    margin: 0 auto 10px auto;
+}
+
 .news_link{
-    color: brown;
+    color: rgb(30, 9, 211);
 }
 .news_link:visited{
-    color: rgb(165, 87, 87);
+    color: rgb(95, 194, 55);
 }
 .main_title {
     text-align: center;
