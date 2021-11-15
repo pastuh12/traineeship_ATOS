@@ -1,0 +1,41 @@
+body{
+    margin: 20px;
+}
+
+div{
+    margin-bottom: 20px;
+}
+
+div:hover{
+    font-weight: bolder;
+    font-size: large;
+}
+
+.project_link:visited {
+    color: chartreuse;
+}
+
+.project_link:active {
+    color: rgb(0, 4, 255);
+}
+
+.project_link:link {
+    color: rgb(243, 222, 31);
+}
+
+
+
+div:nth-of-type(5n+3){
+    color: red;
+}
+
+.link::after{
+    content: "";
+    border: 1px inset;
+    box-sizing: border-box;
+    color: gray;
+    display: block;
+    height: 2px;
+    margin: 0.5em auto;
+}
+

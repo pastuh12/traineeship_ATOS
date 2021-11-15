@@ -1,0 +1,10 @@
+
+.illustration_right{
+    float: left;
+    width: 250px;
+}
+
+.illustration_left{
+    float: right;
+    width: 250px;
+}

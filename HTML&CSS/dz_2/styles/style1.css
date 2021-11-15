@@ -1,5 +1,7 @@
 div{
-  height: 500px;
+  width: 40%;
+  margin: 0px auto;
+  height: 300px;
   display: flex;
   align-items: center;
   justify-content: center;
