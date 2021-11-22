@@ -1,0 +1,28 @@
+table{
+    border: 1px solid red;
+    text-align: center;
+    border-collapse: collapse;
+}
+tr{
+    height: 30px;
+}
+td, th{
+    width: 100px;
+    padding: 2px;
+    border: 1px solid black;
+}
+
+tr:nth-of-type(2n){
+    background-color: darkgray;
+}
+
+.russian{
+    background-color: rgba(209, 87, 87, 0.973);
+}
+.french{
+    background-color: rgb(97, 97, 212);
+}
+.russian .french {
+    background-color: rgb(100, 237, 237);
+}
+
