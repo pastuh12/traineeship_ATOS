@@ -1,0 +1,7 @@
+C:\Users\ilya_\my_codes\ATOS\C#\firstLesson\firstLesson\bin\Debug\firstLesson.exe.config
+C:\Users\ilya_\my_codes\ATOS\C#\firstLesson\firstLesson\bin\Debug\firstLesson.exe
+C:\Users\ilya_\my_codes\ATOS\C#\firstLesson\firstLesson\bin\Debug\firstLesson.pdb
+C:\Users\ilya_\my_codes\ATOS\C#\firstLesson\firstLesson\obj\Debug\firstLesson.csproj.AssemblyReference.cache
+C:\Users\ilya_\my_codes\ATOS\C#\firstLesson\firstLesson\obj\Debug\firstLesson.csproj.CoreCompileInputs.cache
+C:\Users\ilya_\my_codes\ATOS\C#\firstLesson\firstLesson\obj\Debug\firstLesson.exe
+C:\Users\ilya_\my_codes\ATOS\C#\firstLesson\firstLesson\obj\Debug\firstLesson.pdb
