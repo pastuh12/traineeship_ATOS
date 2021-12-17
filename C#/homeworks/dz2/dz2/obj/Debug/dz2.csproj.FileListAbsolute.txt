@@ -1,0 +1,7 @@
+C:\Users\ilya_\my_codes\ATOS\C#\homeworks\dz2\dz2\dz2\bin\Debug\dz2.exe.config
+C:\Users\ilya_\my_codes\ATOS\C#\homeworks\dz2\dz2\dz2\bin\Debug\dz2.exe
+C:\Users\ilya_\my_codes\ATOS\C#\homeworks\dz2\dz2\dz2\bin\Debug\dz2.pdb
+C:\Users\ilya_\my_codes\ATOS\C#\homeworks\dz2\dz2\dz2\obj\Debug\dz2.csproj.AssemblyReference.cache
+C:\Users\ilya_\my_codes\ATOS\C#\homeworks\dz2\dz2\dz2\obj\Debug\dz2.csproj.CoreCompileInputs.cache
+C:\Users\ilya_\my_codes\ATOS\C#\homeworks\dz2\dz2\dz2\obj\Debug\dz2.exe
+C:\Users\ilya_\my_codes\ATOS\C#\homeworks\dz2\dz2\dz2\obj\Debug\dz2.pdb
