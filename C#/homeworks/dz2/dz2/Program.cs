@@ -150,9 +150,10 @@ namespace dz1
         public int enterCountArrayElement()
         {
             int n;
-            Console.Write("\nВведите количество элементов массива: ");
+            
             while (true)
             {
+                Console.Write("\nВведите количество элементов массива: ");
                 if (int.TryParse(Console.ReadLine(), out n))
                 {
                     return n;
@@ -200,9 +201,9 @@ namespace dz1
             int key;
             do
             {
-                Console.Write("\nВыберите действие, которое вы хотите сделать: \n1 - сумма;" +
-                    " \n2 - максимум;" +
-                    " \n3 - минимум;" +
+                Console.Write("\nВыберите действие, которое вы хотите сделать: \n1 - максимум;" +
+                    " \n2 - минимум;" +
+                    " \n3 - сумма;" +
                     " \n4 - среднее арифметическое значение;" +
                     " \n5 - среднее геометрическое значение;" +
                     " \nВаш выбор: ");
